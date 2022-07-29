@@ -45,17 +45,11 @@ body {
     border-radius: 4px;
 }
 .nav-menu-item:hover {
+    font-size: 22px;
     background-color: cornflowerblue;
     transition: 1s;
 }
-
-.nav-menulink{
-    padding: 8px 12px;
-    border-radius: 4px;
-    
-}
-
-.footer{
+.footer {
     background-color: black;
     text-align: center;
     color: white;
@@ -63,15 +57,13 @@ body {
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100%;
-}
-
-.contenido{
+    width: 100%}
+.contenido {
     background-color: wheat;
     position: fixed;
     top: 80px;
     bottom: 20px;
-    left: 0px;
+    left: 0;
     width: 100%;
     overflow: auto;
 }
